@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VadimCosman @david1497
 - 👀 I’m interested in DataScience | Python | SQL
-- 🌱 I’m currently a Data Science master student
+- 🌱 Graduate master in Data Science
 - 💞️ I’m looking to collaborate on Data Science, Data analysis, Business Intelligence projects
 - 📫 How to reach me citcosman@gmail.com
 
